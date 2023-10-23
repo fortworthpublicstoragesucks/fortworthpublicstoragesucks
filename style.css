@@ -77,11 +77,11 @@ footer {
     }
 
     header h1 {
-        font-size: 32px;
+        font-size: 24px;
     }
 
     header p {
-        font-size: 16px;
+        font-size: 18px;
     }
 
     main {
@@ -109,7 +109,7 @@ footer {
     }
 
     footer {
-        font-size: 12px;
+        font-size: 14px;
         padding: 5px;
     }
 }
