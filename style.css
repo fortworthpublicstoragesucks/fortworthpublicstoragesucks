@@ -69,3 +69,34 @@ footer {
     color: #ccc;
     text-decoration: none;
 }
+
+/* Media query for mobile responsiveness */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 24px;
+    }
+
+    main {
+        padding: 10px;
+    }
+
+    h2 {
+        font-size: 20px;
+    }
+
+    h3 {
+        font-size: 18px;
+    }
+
+    .content {
+        padding: 5px;
+    }
+
+    .photo-credit {
+        font-size: 12px;
+    }
+
+    footer {
+        padding: 5px;
+    }
+}
