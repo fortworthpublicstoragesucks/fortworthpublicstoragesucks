@@ -88,12 +88,8 @@ footer {
         padding: 10px;
     }
 
-    h1 {
+    h2 {
         font-size: 20px;
-    }
-
-    h3 {
-        font-size: 19px;
     }
 
     h3 {
@@ -109,7 +105,7 @@ footer {
     }
 
     footer {
-        font-size: 12px;
+        font-size: 14px;
         padding: 5px;
     }
 }
