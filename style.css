@@ -51,7 +51,7 @@ img {
     height: auto;
 }
 
-.photo-credit {
+.photo-caption {
     text-align: center;
     font-size: 14px;
     margin-top: 5px;
@@ -97,7 +97,7 @@ footer {
         padding: 5px;
     }
 
-    .photo-credit {
+    .photo-caption {
         font-size: 12px;
     }
 
