@@ -77,7 +77,7 @@ footer {
     }
 
     header h1 {
-        font-size: 24px;
+        font-size: 22px;
     }
 
     header p {
@@ -89,11 +89,11 @@ footer {
     }
 
     h1 {
-        font-size: 22px;
+        font-size: 20px;
     }
 
     h3 {
-        font-size: 18px;
+        font-size: 19px;
     }
 
     h3 {
@@ -109,7 +109,7 @@ footer {
     }
 
     footer {
-        font-size: 14px;
+        font-size: 12px;
         padding: 5px;
     }
 }
